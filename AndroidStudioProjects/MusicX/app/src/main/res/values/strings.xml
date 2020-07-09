@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicX</string>
+    <string name="stop">Stop</string>
+    <string name="musicx">MusicX</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="todo">TODO</string>
+    <string name="volume">Volume</string>
+    <string name="astronomia_vicetone">Astronomia - Vicetone</string>
+</resources>

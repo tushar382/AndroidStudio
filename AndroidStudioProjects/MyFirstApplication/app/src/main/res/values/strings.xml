@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="question_papers">Question Papers</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="remember_me">Remember me</string>
+    <string name="log_in">Log in</string>
+</resources>

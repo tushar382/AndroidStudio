@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Background</string>
+    <string name="background_tasks">Background Tasks</string>
+    <string name="button">Button</string>
+</resources>

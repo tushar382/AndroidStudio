@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">new appliccation</string>
+    <string name="Bscit" />
+    <string name="welcome_to_question_papers">Welcome to Question Papers</string>
+    <string name="select_cousre">Select Cousre</string>
+    <string name="bscit">BscIT</string>
+    <string name="bsccs">BscCS</string>
+    <string name="first_year">First year</string>
+    <string name="third_year">Third Year</string>
+    <string name="second_year">Second year</string>
+</resources>
